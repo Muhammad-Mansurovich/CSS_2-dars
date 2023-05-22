@@ -1,0 +1,59 @@
+body{
+    background-color: brown;
+    background-image: url("../rasmlar/nature.jfif");
+    background-repeat: no-repeat; /* repeat,repeat-x,repeat-y,no-repeat */
+    background-size: 50%;   /* %,px,cover */
+    background-position: center 250px; /* (left,center,right),y(top,center,bottom) */
+    /*background: brown url("../rasmlar/nature.jfif") no-repeat ;*/
+}
+.text{
+    color: white;
+    border: 5px solid white ; /* solid,dotted,dashed,double,groove,ridge,inset,outset */
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: white; */
+   /* border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: white;
+    border-right-color:  white;
+    border-bottom-color: white;
+    border-left-color: white; */
+    text-align: center; /* left(default),center,right,justify */
+    text-transform: none; /* uppercase,lowercase,capitalize,none */
+    text-decoration: none; /* underline,overline,line-through,none */
+    letter-spacing: 5px; /* matndagi harflar orasini ochib beradi */
+    word-spacing:12px ; /* matndagi so'zlar orasini ochib beradi */
+    line-height:15px; /* matndagi qatorlar orasini ochib beradi */
+}
+.block{
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    /*min-width: 50px;
+    min-height: 50px;*/
+    /*max-width: 500px;
+    max-height: 150px;*/
+    /*margin: 50px 150px;*/
+    /*margin-top: 50px;
+    margin-right: 150px;
+    margin-bottom: 25px;
+    margin-left: 10px;*/
+    margin: 300px auto;
+    padding:50px ;
+}
+
+
+
+
+
+
+
+
+
+
